@@ -1,0 +1,14 @@
+site_name: LongwoodGeek Labs
+site_url: https://labs.longwoodgeek.net
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Khepri:
+      - Overview: khepri/index.md
+      - World Bible: khepri/world-bible.md
+      - Scenario Index: khepri/scenario-index.md
+      - Wiremaps: khepri/wiremaps.md
+      - Devlog: khepri/devlog.md
+      - Downloads: khepri/downloads.md
